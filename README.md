@@ -4,7 +4,7 @@ I'm a student at WBS Coding School.
 
 🌱 Currently learning: TypeScript  
 
-💻 Currently building: Art Institute explorer project  
+💻 Currently building: Event Scheduler TypeScript project  
 
 🚀 Focused on improving my web development skills
 
