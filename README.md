@@ -1,11 +1,13 @@
 ## Hi there 👋
 
-I'm a student at WBS Coding School.
+I'm a Full-Stack Developer in training, currently completing 
+a bootcamp at WBS Coding School (React, TypeScript, Node.js).
 
-🌱 Currently learning: TypeScript  
+🚀 Featured project: Art Institute Explorer — 
+   React/TypeScript app with REST API, 400,000+ records, live on Render
 
-💻 Currently building: Event Scheduler TypeScript project  
+💻 Stack: JavaScript · TypeScript · React · Node.js · Express · SQL · Tailwind CSS
 
-🚀 Focused on improving my web development skills
+🌱 Currently exploring: Next.js
 
-Thanks for visiting my profile.
+📍 Based in Germany · Open to Junior Developer roles
